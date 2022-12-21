@@ -10,6 +10,5 @@ public class Main {
         System.out.println("polina IDEA");
         System.out.println("polina rips");
         System.out.println("ashot d4");
-
     }
 }
