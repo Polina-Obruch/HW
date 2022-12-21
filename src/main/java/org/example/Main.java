@@ -8,5 +8,6 @@ public class Main {
         System.out.println("polina from Res");
         System.out.println("ashot from d2");
         System.out.println("polina IDEA");
+        System.out.println("polina rips");
     }
 }
